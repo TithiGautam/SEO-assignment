@@ -1,0 +1,12 @@
+Benifits of using meta tags:
+
+1.Improved search engine ranking :Well optimized meta tags can positively impact 
+your website visibility in search engine results,leading to higher rankings.
+
+2.Increased click through rates:Engaging meta titles and description can encourage
+users to click on your link ,improving the CTR and driving more traffic to your site.
+
+3.Optimized social media sharing:Some meta tags like open graph tags,impact how content
+appears When shared on social media,ensuring a more attractive and informative
+presentation.
+

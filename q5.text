@@ -1,0 +1,17 @@
+FEVICON : A FEVICON short for favrites icon is a small icon associated with a website
+It appears in the browser tab when a user visits a site, next to the page title.Fevicons are used
+to provide a visual representation of the website and help users easily identify and
+locate it among multiple open tabs.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--fevicon-->
+    <link rel ="icon" href = "favicon.ico" type = "image/x-icon">
+</head>
+<body>  
+</body>
+</html>
